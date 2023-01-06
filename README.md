@@ -1,5 +1,5 @@
-# Using-Satellite-Data-on-Remote-Transportation-of-PM2.5
-Using Satellite Data on Remote Transportation of PM2.5
+# Using-Satellite-Data-on-Remote-Transportation
+Using Satellite Data on Remote Transportation
 
 This repository is for the following pre-print paper
 
