@@ -20,7 +20,7 @@ Most of these code are executed in the terminal e.g `# $ python3 next4hr_stri_fe
 
 Majority of the dataset we used are very large for example train size for each satellite tile is 11.7GB, remote weather train size is 1.1GB and for testing each tile has a size of 5.9GB while remote weather is 555MB. Therefore we were not able to include those file in our repository.
 
-### Epa Data
+### EPA Data
 For 2014 to 2018, all of the stations with weather/polluton in Taiwan can download on the following cloud drives.
 https://1drv.ms/u/s!AmHd3ERrMbP0wbg1TLI-FfEUN-Qbiw?e=8FsXYI
 
