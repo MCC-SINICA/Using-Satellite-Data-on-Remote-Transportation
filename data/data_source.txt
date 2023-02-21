@@ -1,0 +1,21 @@
+Links and Instructions
+---------------------------------
+For "AOD data: NASA (https://ladsweb.modaps.eosdis.nasa.gov)"
+
+1st step: register your account at their website
+2nd step: open that NASA website click Data then select find data
+3rd step: the new page will appear with steps labeled by number at the top e.g 1 PRODUCT
+4th step: In PRODUCT step by default it will appear All Sensors and at bottom select  MODIS Collection 6-level 1, Atmosphere, Land(Archive Set 6)
+5th step: Then click All[188] show available number of products. Then choose MCD19A2 product
+6th step: Click arrow to move to 2 step TIME then select start date and end data e.g 2014-01-01 to 2014-12-31 then click Add Date
+7th step: Then click the arrow to move to 3 step LOCATION to select area of interest then click tiles then enter tiles number of study area h28v05, h28v06, h29v05, h29v06
+8th Step: Click arrow to move to 4 step FILES choose Select All 
+9th step: Click arrow again to move to 5 step REVIEW and ORDER then click Submit Order
+
+Then that order will be sent to your email by NASA.
+Repeat those step for year 2015 and 2016
+------------------------------------
+Similarly, after finishing the registration process of each website, a valid account can access from these sooruces of datasets:
+ NCEP (https://rda.ucar.edu),
+CWB, Taiwan (https://opendata.cwb.gov.tw),
+and EPA, Taiwan (https://data.epa.gov.tw).
