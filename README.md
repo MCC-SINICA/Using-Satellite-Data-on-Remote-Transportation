@@ -24,6 +24,17 @@ Majority of the dataset we used are very large for example train size for each s
 For 2014 to 2018, all of the stations with weather/polluton in Taiwan can download on the following cloud drives.
 https://1drv.ms/u/s!AmHd3ERrMbP0wbg1TLI-FfEUN-Qbiw?e=8FsXYI
 
+### EPA Preprocessing Data
+For 2014 to 2018, 18 stations in Taipei Area. Each of which contain 14 features.
+0: AMB_TEMP , 1: CO, 2: NO, 3: NO2, 4: NOx, 5: O3, 6: PM10, 7: PM2.5, 8: Rainfall, 9: RH, 10: SO2
+11: THC, 12: COS_wind, 13: Sin_wind.
+
+epa14_18station.npy
+epa15_18station.npy
+epa16_18station.npy
+epa17_18station.npy
+epa18_18station.npy
+
 
 ## INSTALL
 
