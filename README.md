@@ -29,3 +29,6 @@ Majority of the dataset we used are very large for example train size for each s
 - scipy
 - matplotlib
 
+## Epa Data
+For 2014 to 2018, all of the stations with weather/polluton in Taiwan can download on the following cloud drives.
+https://1drv.ms/u/s!AmHd3ERrMbP0wbg1TLI-FfEUN-Qbiw?e=8FsXYI
