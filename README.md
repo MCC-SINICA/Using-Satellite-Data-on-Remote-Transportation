@@ -36,7 +36,7 @@ To get weather data, use following python command:
 weather_array_14 = np.concatenate(np.load('epa14_18station.npy')[:,1:8,:], np.load('epa14_18station.npy')[:,10:12,:], axis=1)
 
 To get pollution data, use following python command:
-weather_array_14 = np.concatenate(np.load('epa14_18station.npy')[:,0:1,:], np.load('epa14_18station.npy')[:,8:10,:], axis=1)
+pollution_array_14 = np.concatenate(np.load('epa14_18station.npy')[:,0:1,:], np.load('epa14_18station.npy')[:,8:10,:], axis=1)
 
 Preprocessing data can be found in following path.
 
