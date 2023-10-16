@@ -8,9 +8,9 @@ The project involve the prediction of PM<sub>2.5</sub> for next 4hour(hr), 8hr,1
 for next 4hour. The same codes are used from predicting the remaining hours but same changes needed to the 
 data shape of input features and output label data.
 
-STRI_fe code with extract middle layer used to extract remote pollutants
+STRI_fe code used to extract middle layer which act as remote pollutants
 
-STR_p code use the extracted remote pollutants with other features as input for local prediction of PM<sub>2.5</sub>.
+STR_p code used the extracted remote pollutants with other features as input for local prediction of PM<sub>2.5</sub>.
 
 RTP composite code performed the final prediction of PM<sub>2.5</sub> by considering prediction results from STRI_p model and the base model
 
@@ -41,9 +41,13 @@ pollution_array_14 = np.concatenate(np.load('epa14_18station.npy')[:,0:1,:], np.
 Preprocessing data can be found in following path.
 
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa14_18station.npy
+
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa15_18station.npy
+
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa16_18station.npy
+
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa17_18station.npy
+
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa18_18station.npy
 
 
