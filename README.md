@@ -41,9 +41,13 @@ pollution_array_14 = np.concatenate(np.load('epa14_18station.npy')[:,0:1,:], np.
 Preprocessing data can be found in following path.
 
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa14_18station.npy
+
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa15_18station.npy
+
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa16_18station.npy
+
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa17_18station.npy
+
 https://github.com/MCC-SINICA/Using-Satellite-Data-on-Remote-Transportation/blob/main/data/epa18_18station.npy
 
 
